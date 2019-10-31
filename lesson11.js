@@ -17,5 +17,5 @@ var nameFilter = function(filteredName) {
     }
 }
 
-var filteredNames = nameFilter("Betty")
-console.log(filteredNames)
+nameFilter("Betty");
+
